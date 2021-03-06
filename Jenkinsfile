@@ -1,4 +1,4 @@
-node('master')
+node('node1')
 {
     mavenhome = tool name:"maven3.6.3"
     
